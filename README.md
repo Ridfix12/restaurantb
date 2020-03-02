@@ -15,6 +15,7 @@ Variedades de mariscos el cual desee escojer a su gusto:
   <tr>
         <td>
 <img src="imagenes/1.webp""width="50%" height="100">
+<br>precio: 5.50
         </td>
         <td>
             <h3><i><b><font color="blue">1. Camarones en salsa de naranja y miel</font></b><i></h3>
@@ -23,8 +24,9 @@ Variedades de mariscos el cual desee escojer a su gusto:
         </td>
   </tr>
 <tr>
-        <td>
-<img src="imagenes/2.jpg"width="50%" height="100">
+         <td>
+<img src="imagenes/2.jpg""width="50%" height="100">
+<br>precio: 4.50
         </td>
         <td>
             <h3><i><b><font color="blue">2. camarones apanados</font></b><i></h3>
@@ -44,6 +46,7 @@ Aceite para freír
 <tr>
         <td>
 <img src="imagenes/3.webp"width="50%" height="100">
+<br>precio: 2.50
         </td>
         <td>
             <h3><i><b><font color="blue">3. encebollado</font></b><i></h3>
@@ -64,6 +67,7 @@ Sal al gusto
 <tr>
         <td>
 <img src="imagenes/4.jpg"width="50%" height="100">
+<br>precio: 2.50
         </td>
         <td>
             <h3><i><b><font color="blue">4. arroz con pure de papa  y pollo</font></b><i></h3>
@@ -81,6 +85,7 @@ Un poco de agua
 <tr>
         <td>
 <img src="imagenes/5.jpg"width="50%" height="100">
+<br>precio: 2.50
         </td>
         <td>
             <h3><i><b><font color="blue">5. Pollo hornado</font></b><i></h3>
@@ -113,6 +118,7 @@ dientes de ajo, enteros
 <tr>
         <td>
 <img src="imagenes/6.jpg"width="50%" height="100">
+<br>precio: 2.50
         </td>
         <td>
             <h3><i><b><font color="blue">6. Papas con pollo y arroz</font></b><i></h3>
@@ -135,6 +141,7 @@ queso blanco rallado
 <tr>
         <td>
 <img src="imagenes/7.webp"width="50%" height="100">
+<br>precio: 2.50
         </td>
         <td>
             <h3><i><b><font color="blue">7. ensalada de verduras con pollo</font></b><i></h3>
@@ -153,6 +160,7 @@ Sal y pimienta al gusto
 <tr>
         <td>
 <img src="imagenes/8.jpg"width="50%" height="100">
+<br>precio: 2.50
         </td>
         <td>
             <h3><i><b><font color="blue">8. carne frita arros con choclo</font></b><i></h3>
@@ -169,6 +177,7 @@ Ranchero (caldo instantáneo de pollo)
 <tr>
         <td>
 <img src="imagenes/9.jpg"width="50%" height="100">
+<br>precio: 2.00
         </td>
         <td>
             <h3><i><b><font color="blue">9. bitec de carne</font></b><i></h3>
@@ -185,6 +194,11 @@ Achiote 1 cucharada
   </tr>
 <tr>
 </table>
+</center>
+<center>
+<a href="http://www.google.com">google</a><br>
+cualquier duda sobre la paguina comunicarse con 
+<a href="alexcoloma756@gmail.com">correo</a>
 </center>
 </body>
 </html>
